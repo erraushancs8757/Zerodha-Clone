@@ -43,7 +43,7 @@ function Universe() {
                 </div>
 
                 <div className='col-4  mt-5' >
-                    <img src='media\images\dittoLogo.png' alt='tijori' style={{width:"200px",  height:"110px"}}/>
+                    <img src='media\images\dittoLogo.png' alt='dittoLogo' style={{width:"200px",  height:"110px"}}/>
                     <p className='mt-5 mx-5 text-small'>Personalized advice on life
                       and health insurance. No spam
                          and no mis-selling.</p>
