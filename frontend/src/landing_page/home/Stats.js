@@ -24,8 +24,8 @@ function Stats() {
                     <img src='media\images\ecosystem.png' alt='ecosystem' style={{ width: "85%" }} />
 
                     <div className='text-center'>
-                        <a href='' className='mx-5' style={{ textDecoration: "none" }}>Explore our products <i class="fa-solid fa-arrow-right-long"></i></a>
-                        <a href='' style={{ textDecoration: "none" }}>Try Kite demo <i class="fa-solid fa-arrow-right-long"></i></a>
+                        <span className='mx-5' style={{ textDecoration: "none" }}>Explore our products <i class="fa-solid fa-arrow-right-long"></i></span>
+                        <span style={{ textDecoration: "none" }}>Try Kite demo <i class="fa-solid fa-arrow-right-long"></i></span>
                     </div>
                 </div>
             </div>

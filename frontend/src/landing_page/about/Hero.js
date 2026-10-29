@@ -27,7 +27,7 @@ function Hero() {
                         </p>
 
                         <p>
-                            <a href='' style={{textDecoration:"none"}}>Rainmatter</a> , our fintech fund and incubator, has invested in several fintech startups with the goal of growing the Indian capital markets.
+                            <span style={{textDecoration:"none"}}>Rainmatter</span> , our fintech fund and incubator, has invested in several fintech startups with the goal of growing the Indian capital markets.
                         </p>
                         <p>
                             And yet, we are always up to something new every day. Catch up on the latest updates on our blog or see what the media is saying about us or learn more about our business and product philosophies.

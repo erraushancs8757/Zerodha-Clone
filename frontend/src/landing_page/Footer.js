@@ -12,49 +12,49 @@ function Footer() {
                 </div>
                 <div className='textDecoration col ' >
                     <p >Account</p>
-                    <a href=''>Open demat account</a> <br/>
-                    <a href=''>Minor demand account</a> <br/>
-                    <a href=''>NRI demat account</a> <br/>
-                    <a href=''>HUF demand account</a> <br/>
-                    <a href=''>Commodity</a> <br/>
-                    <a href=''>Dematerialisation</a> <br/>
-                    <a href=''>Fund transfer</a> <br/>
-                    <a href=''>MTF</a>
+                    <span >Open demat account</span> <br/>
+                    <span >Minor demand account</span> <br/>
+                    <span >NRI demat account</span> <br/>
+                    <span >HUF demand account</span> <br/>
+                    <span >Commodity</span> <br/>
+                    <span >Dematerialisation</span> <br/>
+                    <span >Fund transfer</span> <br/>
+                    <span >MTF</span>
                 </div>
                 <div className='textDecoration col'>
                      <p>Support</p>
 
-                     <a href=''>Contact us</a><br/>
-                     <a href=''>Support portal</a><br/>
-                     <a href=''>How to file a complaint?</a><br/>
-                     <a href=''>Status of your complaints</a><br/>
-                     <a href=''>Bulletin</a><br/>
-                     <a href=''> Circular</a><br/>
-                     <a href=''>Z-Connect blog</a><br/>
-                     <a href=''>Downloads</a>
+                     <span >Contact us</span><br/>
+                     <span >Support portal</span><br/>
+                     <span >How to file a complaint?</span><br/>
+                     <span >Status of your complaints</span><br/>
+                     <span >Bulletin</span><br/>
+                     <span > Circular</span><br/>
+                     <span >Z-Connect blog</span><br/>
+                     <span >Downloads</span>
                 </div>
                 <div className='textDecoration col'>
                     <p>Company</p>
-                    <a href=''>About</a><br/>
-                    <a href=''>Philosophy</a><br/>
-                    <a href=''>Press & media</a><br/>
-                    <a href=''>Careers</a><br/>
-                    <a href=''>Zerodha Cares (CSR)</a><br/>
-                    <a href=''>Zerodha.tech</a><br/>
-                    <a href=''>Open source</a><br/>
-                    <a href=''>Referral program</a>
+                    <span >About</span><br/>
+                    <span >Philosophy</span><br/>
+                    <span >Press & media</span><br/>
+                    <span >Careers</span><br/>
+                    <span >Zerodha Cares (CSR)</span><br/>
+                    <span >Zerodha.tech</span><br/>
+                    <span >Open source</span><br/>
+                    <span >Referral program</span>
 
                 </div>
                 <div className='textDecoration col '>
                     <p>Quick links</p>
-                    <a href='' >Upcoming IPOs</a><br/>
-                    <a href='' >Brokerage charges</a><br/>
-                    <a href=''>Market holidays</a><br/>
-                    <a href=''>Economic calendar</a><br/>
-                    <a href=''>Calculators</a><br/>
-                    <a href=''>Markets</a><br/>
-                    <a href=''>Sectors</a><br/>
-                    <a href=''>Gift Nifty</a>
+                    <span  >Upcoming IPOs</span><br/>
+                    <span  >Brokerage charges</span><br/>
+                    <span >Market holidays</span><br/>
+                    <span >Economic calendar</span><br/>
+                    <span >Calculators</span><br/>
+                    <span >Markets</span><br/>
+                    <span >Sectors</span><br/>
+                    <span >Gift Nifty</span>
 
                 </div>
             </div>
@@ -68,7 +68,7 @@ function Footer() {
 
 <p>Investments in securities market are subject to market risks; read all the related documents carefully before investing. </p> 
 
-<p>Attention investors: 1) Stock brokers can accept securities as margins from clients only by way of pledge in the depository system w.e.f September 01, 2020. 2) Update your e-mail and phone number with your stock broker / depository participant and receive OTP directly from depository on your e-mail and/or mobile number to create pledge. 3) Check your securities / MF / bonds in the consolidated account statement issued by NSDL/CDSL every month. </p>  
+<p>Attention investors: 1( Stock brokers can accept securities as margins from clients only by way of pledge in the depository system w.e.f September 01, 2020. 2) Update your e-mail and phone number with your stock broker / (depository participant and receive OTP directly from depository on your e-mail and/or mobile number to create pledge. 3) Check your securities / MF / bonds in the consolidated account statement issued by NSDL/CDSL every month. </p>  
 
 <p>India's largest broker based on networth as per NSE. NSE broker factsheet </p>
 
