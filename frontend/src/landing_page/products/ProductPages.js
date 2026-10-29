@@ -50,7 +50,7 @@ function ProductPage() {
          appStore=""
          />
 
-         <h4 className='text-center'>Want to know more about our technology stack? Check out the <span style={{textDecoration:"none",}}>Zerodha.tech</span> blog.</h4>
+         <h4 className='text-center'>Want to know more about our technology stack? Check out the <a href='/Zerodha-tech' style={{textDecoration:"none",}}>Zerodha.tech</a> blog.</h4>
         
         <Universe/>
 

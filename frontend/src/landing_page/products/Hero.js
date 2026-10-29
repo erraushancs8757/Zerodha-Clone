@@ -6,7 +6,7 @@ function Hero() {
 
                 <h3 className='mt-3'>Zerodha product</h3>
                 <h4 className='mt-5' >Sleek, modern, and intuitive trading platforms</h4>
-                <p className='mt-5 mb-5'>Check out our <span style={{textDecoration:"none"}}>investment offerings&A <i class="fa-solid fa-arrow-right-long"></i></span>
+                <p className='mt-5 mb-5'>Check out our <a href='/investment-offerings&A' style={{textDecoration:"none"}}>investment offerings&A <i class="fa-solid fa-arrow-right-long"></i></a>
                  </p>
 
 

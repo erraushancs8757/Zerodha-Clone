@@ -8,7 +8,7 @@ function Team() {
 
             <div className='row p-5 mt-5 mb-5 '  style={{lineHeight:"1.9", fontSize:"1.2rem"}}>
                     <div className='col-6 p-5 mt-5 text-center'>
-                        <img src='media\images\Raushan.10.jpg' style={{width:"220px", borderRadius:"100%", marginTop:"15px" }}/>
+                        <img src='media\images\Raushan.10.jpg' alt='raushanImage' style={{width:"220px", borderRadius:"100%", marginTop:"15px" }}/>
                         <h4 className='mt-5'>Raushan kumar</h4>
                         <h5>  Founder, CEO</h5>
                        
@@ -25,7 +25,7 @@ function Team() {
                             Playing basketball is his zen.
                         </p>
                         <p >
-                            Connect on <span style={{textDecoration:"none"}}> Homepage</span> / <span style={{textDecoration:"none"}}>TradingQnA</span>  / <span style={{textDecoration:"none"}}>Twitter</span> 
+                            Connect on <a href='/Homepage' style={{textDecoration:"none"}}> Homepage</a> / <a href='/Homepage' style={{textDecoration:"none"}}>TradingQnA</a>  / <a href='/Homepage' style={{textDecoration:"none"}}>Twitter</a> 
                         </p>
                     </div>
                 </div>
