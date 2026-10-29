@@ -12,17 +12,17 @@ function Hero() {
                 <div className='col-6 p-5 mt-5 mb-5'>
                     <h4>Search for an answer or browser help optics to create a ticket</h4>
                     <input placeholder='Eg: How do I open my account how do I activate F&O... ' /> <br />
-                    <a href='Track-account-opening' style={{ textDecoration: "none" }}>Track account opening</a><br />
-                    <a href='Track-account-opening' style={{ textDecoration: "none" }}>Track segment activation</a><br />
-                    <a href='Track-account-opening' style={{ textDecoration: "none" }}>Intraday margins</a><br />
-                    <a href='Track-account-opening' style={{ textDecoration: "none" }}>Kite user manual</a><br />
+                    <a href='/support' style={{ textDecoration: "none" }}>Track account opening</a><br />
+                    <a href='/support' style={{ textDecoration: "none" }}>Track segment activation</a><br />
+                    <a href='/support' style={{ textDecoration: "none" }}>Intraday margins</a><br />
+                    <a href='/support' style={{ textDecoration: "none" }}>Kite user manual</a><br />
 
                 </div>
                 <div className='col-6 p-5 mt-5 mb-5'>
                     <h4>Featured</h4>
                     <ol>
-                        <li><a href='Track-account-opening' style={{ textDecoration: "none" }}>Current takeovers and Delisting january-2026 </a></li>
-                        <li><a href='Track-account-opening' style={{ textDecoration: "none" }}>latest Intraday leverages - MIS & CO</a></li>
+                        <li><a href='/support' style={{ textDecoration: "none" }}>Current takeovers and Delisting january-2026 </a></li>
+                        <li><a href='/support' style={{ textDecoration: "none" }}>latest Intraday leverages - MIS & CO</a></li>
                     </ol>
 
 

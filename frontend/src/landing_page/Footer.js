@@ -12,49 +12,49 @@ function Footer() {
                 </div>
                 <div className='textDecoration col ' >
                     <p >Account</p>
-                    <a href='/Open-demat-account'>Open demat account</a> <br/>
-                    <a href='/Open-demat-account'>Minor demand account</a> <br/>
-                    <a href='/Open-demat-account'>NRI demat account</a> <br/>
-                    <a href='/Open-demat-account'>HUF demand account</a> <br/>
-                    <a href='/Open-demat-account'>Commodity</a> <br/>
-                    <a href='/Open-demat-account'>Dematerialisation</a> <br/>
-                    <a href='/Open-demat-account'>Fund transfer</a> <br/>
-                    <a href='/Open-demat-account'>MTF</a>
+                    <a href='/'>Open demat account</a> <br/>
+                    <a href='/'>Minor demand account</a> <br/>
+                    <a href='/'>NRI demat account</a> <br/>
+                    <a href='/'>HUF demand account</a> <br/>
+                    <a href='/'>Commodity</a> <br/>
+                    <a href='/'>Dematerialisation</a> <br/>
+                    <a href='/'>Fund transfer</a> <br/>
+                    <a href='/'>MTF</a>
                 </div>
                 <div className='textDecoration col'>
                      <p>Support</p>
 
-                     <a href='/Open-demat-account'>Contact us</a><br/>
-                     <a href='/Open-demat-account'>Support portal</a><br/>
-                     <a href='/Open-demat-account'>How to file a complaint?</a><br/>
-                     <a href='/Open-demat-account'>Status of your complaints</a><br/>
-                     <a href='/Open-demat-account'>Bulletin</a><br/>
-                     <a href='/Open-demat-account'> Circular</a><br/>
-                     <a href='/Open-demat-account'>Z-Connect blog</a><br/>
-                     <a href='/Open-demat-account'>Downloads</a>
+                     <a href='/'>Contact us</a><br/>
+                     <a href='/'>Support portal</a><br/>
+                     <a href='/'>How to file a complaint?</a><br/>
+                     <a href='/'>Status of your complaints</a><br/>
+                     <a href='/'>Bulletin</a><br/>
+                     <a href='/'> Circular</a><br/>
+                     <a href='/'>Z-Connect blog</a><br/>
+                     <a href='/'>Downloads</a>
                 </div>
                 <div className='textDecoration col'>
                     <p>Company</p>
-                    <a href='/Open-demat-account'>About</a><br/>
-                    <a href='/Open-demat-account'>Philosophy</a><br/>
-                    <a href='/Open-demat-account'>Press & media</a><br/>
-                    <a href='/Open-demat-account'>Careers</a><br/>
-                    <a href='/Open-demat-account'>Zerodha Cares (CSR)</a><br/>
-                    <a href='/Open-demat-account'>Zerodha.tech</a><br/>
-                    <a href='/Open-demat-account'>Open source</a><br/>
-                    <a href='/Open-demat-account'>Referral program</a>
+                    <a href='/'>About</a><br/>
+                    <a href='/'>Philosophy</a><br/>
+                    <a href='/'>Press & media</a><br/>
+                    <a href='/'>Careers</a><br/>
+                    <a href='/'>Zerodha Cares (CSR)</a><br/>
+                    <a href='/'>Zerodha.tech</a><br/>
+                    <a href='/'>Open source</a><br/>
+                    <a href='/'>Referral program</a>
 
                 </div>
                 <div className='textDecoration col '>
                     <p>Quick links</p>
-                    <a href='/Open-demat-account' >Upcoming IPOs</a><br/>
-                    <a href='/Open-demat-account' >Brokerage charges</a><br/>
-                    <a href='/Open-demat-account'>Market holidays</a><br/>
-                    <a href='/Open-demat-account'>Economic calendar</a><br/>
-                    <a href='/Open-demat-account'>Calculators</a><br/>
-                    <a href='/Open-demat-account'>Markets</a><br/>
-                    <a href='/Open-demat-account'>Sectors</a><br/>
-                    <a href='/Open-demat-account'>Gift Nifty</a>
+                    <a href='/' >Upcoming IPOs</a><br/>
+                    <a href='/' >Brokerage charges</a><br/>
+                    <a href='/'>Market holidays</a><br/>
+                    <a href='/'>Economic calendar</a><br/>
+                    <a href='/'>Calculators</a><br/>
+                    <a href='/'>Markets</a><br/>
+                    <a href='/'>Sectors</a><br/>
+                    <a href='/'>Gift Nifty</a>
 
                 </div>
             </div>

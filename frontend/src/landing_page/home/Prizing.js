@@ -6,7 +6,7 @@ function Prizing() {
                 <div className='col-4'>
                     <h2 className='mb-5'>Unbeatable pricing</h2>
                     <p>We pioneered the concept of discount broking and price transparency in India. Flat fees and no hidden charges.</p>
-                    <a href='/Try-Kite-demo' style={{ textDecoration: "none" }}>Try Kite demo <i class="fa-solid fa-arrow-right-long"></i></a>
+                    <a href='/' style={{ textDecoration: "none" }}>Try Kite demo <i class="fa-solid fa-arrow-right-long"></i></a>
 
                 </div>
                 <div className='col-2'></div>
