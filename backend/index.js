@@ -188,6 +188,10 @@ app.use(bodyParser.json());
 //         res.send("done!")
 //  })
 
+app.get("/",(req,res)=>{
+  res.send("server is running!");
+});
+
 app.get("/allHoldings", async(req,res)=>{
   let allHoldings= await HoldingsModel.find({});
   res.json(allHoldings);
